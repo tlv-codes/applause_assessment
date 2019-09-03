@@ -2,6 +2,8 @@
 
 ### _Please provide a brief description of how you would use this data to build and train a model to predict how many bugs a new tester will find and how you would measure the success of the model._
 
+*******************************
+
 In order to predict the number of bugs a new tester would find, the first step would be organizing the data. This would entail aggregating the number of bugs found by user, so that we could establish our target variable, 'total_bugs_found.'  The next step would be creating the feature columns that I'd train the model on. Features would include country, time since last login (as a proxy for a tester's activity), and device availability data (dummified values to indicate whether a tester possesses said device or not). I'd then change the values for country from string data to numerical values e.g. US = 1, GB = 2, JP = 3. At this point, the dataframe would be ready for modeling.
 
 
