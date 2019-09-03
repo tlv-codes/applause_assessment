@@ -10,6 +10,8 @@ a jupyter notebook with a function that takes a user's input for both country an
 a written document explaining how, with historical data from 100k testers, I would create a machine learning algorithm to predict the number of bugs a new tester would find.
 
 
+
+
 If you have any questions, please do not hesitate to reach me by phone or by email.
 
 Phone: 339-225-0760
