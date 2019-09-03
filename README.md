@@ -12,12 +12,6 @@ a written document explaining how, with historical data from 100k testers, I wou
 
 
 
-If you have any questions, please do not hesitate to reach me by phone or by email.
-
-Phone: 339-225-0760
-
-Email: TLV328@gmail.com
-
 Thanks,
 Tim
 
