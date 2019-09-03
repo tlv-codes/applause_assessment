@@ -1,6 +1,6 @@
-### _We want to build a model that predicts how many bugs a new tester will find.  We have a database with historical information from 100,000 testers.  The database has 4 tables corresponding to the 4 CSV files from the coding exercise._
+#### _We want to build a model that predicts how many bugs a new tester will find.  We have a database with historical information from 100,000 testers.  The database has 4 tables corresponding to the 4 CSV files from the coding exercise._
 
-### _Please provide a brief description of how you would use this data to build and train a model to predict how many bugs a new tester will find and how you would measure the success of the model._
+#### _Please provide a brief description of how you would use this data to build and train a model to predict how many bugs a new tester will find and how you would measure the success of the model._
 
 *******************************
 
